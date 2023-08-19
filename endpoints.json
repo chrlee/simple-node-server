@@ -1,0 +1,37 @@
+{
+  "endpointsMap": [
+    {
+      "lines": ["A", "C", "E"],
+      "urlSuffix": "-ace"
+    },
+    {
+      "lines": ["B", "D", "F", "M"],
+      "urlSuffix": "-bdfm"
+    },
+    {
+      "lines": ["G"],
+      "urlSuffix": "-g"
+    },
+    {
+      "lines": ["J", "Z"],
+      "urlSuffix": "-jz"
+    },
+    {
+      "lines": ["N", "Q", "R", "W"],
+      "urlSuffix": "-nqrw"
+    },
+    {
+      "lines": ["L"],
+      "urlSuffix": "-l"
+    },
+    {
+      "lines": ["1", "2", "3", "4", "5", "6"],
+      "urlSuffix": ""
+    },
+    {
+      "lines": ["7"],
+      "urlSuffix": "-7"
+    }
+  ],
+  "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs"
+}
